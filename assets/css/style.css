@@ -1,12 +1,12 @@
 nav,
 .nav {
     color: white;
-    background: linear-gradient(aqua, black);
+    background: linear-gradient(aqua,indigo);
 }
 
 main,
 .main {
-    background: linear-gradient(aqua, rgb(211, 25, 25));
+    background: linear-gradient(aqua, indigo);
 }
 
 .banner {
@@ -26,13 +26,13 @@ main,
 
 footer,
 .footer {
-    background: linear-gradient(to top, aqua, black);
+    background: linear-gradient(to top, aqua, indigo);
     color: white;
 }
 
 .flashy-text {
-    color: aqua;
-    animation: blink-animation 0.2s steps(5, start) infinite;
+    color: whitesmoke;
+    /* animation: blink-animation 0.2s steps(5, start) infinite;
     -webkit-animation: blink-animation 0.2s steps(5, start) infinite;
 }
 
